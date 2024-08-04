@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
-
 Title:Tic Tac Toe Mini Project using Java
+Host link:
+(https://nehapaul386.github.io/Tic-Tac-Toe/)
 
 Overview:
 
@@ -48,5 +49,4 @@ Key Components:
     If-else statements to prioritize blocking and winning moves.
 
 Expected Outcome:
-
 By the end of this project, a fully functional Tic Tac Toe game
